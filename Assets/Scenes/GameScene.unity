@@ -482,7 +482,7 @@ MonoBehaviour:
     color: {r: 0, g: 0, b: 0, a: 1}
   tileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: 21300024, guid: 1bd6c74c058d5f143a391104c445e845, type: 3}
     color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
   crateVisuals:
     animController: {fileID: 0}
